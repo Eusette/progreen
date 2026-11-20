@@ -34,4 +34,4 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--mut);fon
 .doc h2{font-size:22px;margin:26px 0 8px}
 .doc p,.doc li{color:#cfdcd4}
 .doc ul{padding-left:20px}
-@media (max-width:760px){.hero{grid-template-columns:1fr}.shots{order:-1}}
+@media (max-width:760px){.hero{grid-template-columns:1fr;padding-top:16px;gap:30px}.shots img{max-width:170px}}
